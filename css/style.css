@@ -1,0 +1,37 @@
+body {
+  background-color: green;
+}
+
+#refresh-me {
+  font-size: 7rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  margin: 7px;
+}
+
+.container {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+  display: block;
+}
+footer{
+  margin-top: 1%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.p-1, .p-2 {
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  font-size: 1.8rem;
+  margin: 3px;
+  font-family: 'Indie Flower', cursive;
+}
+img{
+  width: 170px;
+  height: 170px;
+}
